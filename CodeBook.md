@@ -1,0 +1,2 @@
+DatasetHumanActivityRecognitionUsingSmartphones.txt
+run_analysis.r
